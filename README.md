@@ -2,6 +2,8 @@
 
 ❗ Work In Progress ❗
 
+## Description
+This project tracks players and the tennis ball in a video using Machine Learning and Computer Vision. 
 
 ## Functionalities:
  
@@ -27,3 +29,6 @@
  -players speed
  
  -ball shot speed and number of shots
+
+ ## Credits
+ This project was inspired by Abdullah Tarek and his project: https://github.com/abdullahtarek/tennis_analysis
