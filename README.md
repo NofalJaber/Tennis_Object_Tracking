@@ -1,7 +1,5 @@
 # Tennis_Object_Tracking
 
-❗ Work In Progress ❗
-
 ## Description
 This project tracks players and the tennis ball in a video using Machine Learning and Computer Vision. 
 
